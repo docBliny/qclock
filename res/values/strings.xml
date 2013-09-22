@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QClock</string>
+    <string name="msg_started">QClock started.</string>
+</resources>
